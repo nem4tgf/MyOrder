@@ -123,7 +123,7 @@ class _OrderPageState extends State<OrderPage> {
               child: ElevatedButton(
                 onPressed: _addOrder,
                 child: const Text("Add Item to Cart"),
-                style: ElevatedButton.styleFrom(backgroundColor: const Color.fromARGB(155, 255, 93, 34)),
+                style: ElevatedButton.styleFrom(backgroundColor: const  Color.fromARGB(193, 208, 54, 7)),
               ),
             ),
           ]),
@@ -131,7 +131,7 @@ class _OrderPageState extends State<OrderPage> {
         Padding(
           padding: const EdgeInsets.symmetric(horizontal: 16.0),
           child: Container(
-            color: const Color.fromARGB(155, 255, 93, 34),
+            color: const  Color.fromARGB(193, 208, 54, 7),
             padding: const EdgeInsets.symmetric(vertical: 10),
             child: Row(children: [
               _tableHeader("Id"),
@@ -175,7 +175,7 @@ class _OrderPageState extends State<OrderPage> {
         ),
         Container(
           width: double.infinity,
-          color: const Color.fromARGB(193, 221, 108, 2),
+          color: const Color.fromARGB(193, 208, 54, 7),
           padding: const EdgeInsets.all(10),
           child: const Text("Số 8, Tôn Thất Thuyết, Cầu Giấy, Hà Nội",
               textAlign: TextAlign.center, style: TextStyle(color: Colors.white)),

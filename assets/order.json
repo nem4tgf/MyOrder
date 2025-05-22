@@ -1,4 +1,38 @@
 [
-  {"Item": "A1000", "ItemName": "Iphone 15", "Price": 1200, "Currency": "USD", "Quantity": 1},
-  {"Item": "A1001", "ItemName": "Iphone 16", "Price": 1500, "Currency": "USD", "Quantity": 1}
+  {
+    "Item": "A1000",
+    "ItemName": "Iphone 15",
+    "Price": 1200,
+    "Currency": "USD",
+    "Quantity": 1
+  },
+  {
+    "Item": "A1001",
+    "ItemName": "Iphone 16",
+    "Price": 1500,
+    "Currency": "USD",
+    "Quantity": 1
+  }
+    ,
+    {
+        "Item": "A1002",
+        "ItemName": "Iphone 17",
+        "Price": 1800,
+        "Currency": "USD",
+        "Quantity": 1
+    },
+    {
+        "Item": "A1003",
+        "ItemName": "Iphone 18",
+        "Price": 2000,
+        "Currency": "USD",
+        "Quantity": 1
+    },
+    {
+        "Item": "A1004",
+        "ItemName": "Iphone 19",
+        "Price": 2500,
+        "Currency": "USD",
+        "Quantity": 1
+    }
 ]
